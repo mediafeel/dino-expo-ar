@@ -4,10 +4,10 @@
  
 1. 사용하는 "민감한 권한" 및 "사용자 정보"와 이의 이용 목적
  
-1)android.permission.CAMERA
+* android.permission.CAMERA
 "앱"에서 AR 콘텐츠 증강 기능을 수행하기 위하여 사용.
  
-2)android.permission.WRITE_EXTERNAL_STORAGE
+* android.permission.WRITE_EXTERNAL_STORAGE
 "앱"에서  사진 및 동영상 저장 등의 기능을 수행하기 위하여 사용.
  
 2. "민감한 권한" 및 "사용자 정보"에 대한 수집
